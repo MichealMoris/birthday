@@ -1,4 +1,4 @@
-const birthday = new Date("2025-07-06T00:00:00");
+const birthday = new Date("2025-07-07T00:00:00");
 
 function updateCountdown() {
   const now = new Date();
